@@ -1,0 +1,12 @@
+[submodule "cf_tube_amp"]
+	path = cf_tube_amp
+	url = https://github.com/JordanAceto/cf_tube_amp
+[submodule "A200_tube_amp"]
+	path = A200_tube_amp
+	url = https://github.com/JordanAceto/A200_tube_amp
+[submodule "it_is_the_champion"]
+	path = it_is_the_champion
+	url = https://github.com/JordanAceto/it_is_the_champion
+[submodule "LM3886_power_amp_pcb"]
+	path = LM3886_power_amp_pcb
+	url = https://github.com/JordanAceto/LM3886_power_amp_pcb
